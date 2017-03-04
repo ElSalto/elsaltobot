@@ -33,17 +33,6 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 
 public class SocialBot extends TelegramLongPollingBot {
 
-   /* Pre
-   private final static String AUTHORIZATION = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiAiYzhiYzgxNGZjMmQ1NDU1ZjliNzVhNDkyMTU1NDFjZDIifQ.JQ4IPLxuv-jACMqH9nc0KCwMZwts6Aw6ovD6dwdSv5M";
-   private final static String API_URL = "http://pre.shokesu.com:8000/";
-   private final static String USER_AGENT = "Mozilla/5.0";
-   private final static String ACCOUNTID = "35f0200e-142d-49cd-8306-b7d2fb1eaf98";
-  
-   private final static String URL_TOPIC = "http://pre.shokesu.com:4090/";
-
-  */
-
-  // Pro
   private final static String AUTHORIZATION = "";
   private final static String API_URL = "";
   private final static String USER_AGENT = "Mozilla/5.0";
